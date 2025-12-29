@@ -1,0 +1,70 @@
+{
+  "toko": "Toko Bangunan Jaya",
+  "alamat": "Jl. Raya Pembangunan No. 10",
+  "barang": [
+    {
+      "id_barang": "B001",
+      "nama_barang": "Semen Portland 50kg",
+      "kategori": "Material",
+      "harga": 65000,
+      "stok": 120,
+      "satuan": "sak"
+    },
+    {
+      "id_barang": "B002",
+      "nama_barang": "Pasir Halus",
+      "kategori": "Material",
+      "harga": 300000,
+      "stok": 25,
+      "satuan": "kubik"
+    },
+    {
+      "id_barang": "B003",
+      "nama_barang": "Batu Bata Merah",
+      "kategori": "Material",
+      "harga": 750,
+      "stok": 5000,
+      "satuan": "buah"
+    },
+    {
+      "id_barang": "B004",
+      "nama_barang": "Cat Tembok Putih 5kg",
+      "kategori": "Cat",
+      "harga": 135000,
+      "stok": 40,
+      "satuan": "kaleng"
+    },
+    {
+      "id_barang": "B005",
+      "nama_barang": "Paku 5 cm",
+      "kategori": "Perkakas",
+      "harga": 18000,
+      "stok": 100,
+      "satuan": "kg"
+    },
+    {
+      "id_barang": "B006",
+      "nama_barang": "Palu Besi",
+      "kategori": "Perkakas",
+      "harga": 45000,
+      "stok": 30,
+      "satuan": "buah"
+    },
+    {
+      "id_barang": "B007",
+      "nama_barang": "Keramik Lantai 40x40",
+      "kategori": "Keramik",
+      "harga": 60000,
+      "stok": 200,
+      "satuan": "dus"
+    },
+    {
+      "id_barang": "B008",
+      "nama_barang": "Besi Beton 10 mm",
+      "kategori": "Material",
+      "harga": 85000,
+      "stok": 150,
+      "satuan": "batang"
+    }
+  ]
+}
