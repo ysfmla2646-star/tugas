@@ -1,70 +1,70 @@
 {
-  "toko": "Toko Bangunan Jaya",
-  "alamat": "Jl. Raya Pembangunan No. 10",
+  "toko": "Toko Sembako Makmur",
+  "alamat": "Jl. Pasar Baru No. 5",
   "barang": [
     {
-      "id_barang": "B001",
-      "nama_barang": "Semen Portland 50kg",
-      "kategori": "Material",
-      "harga": 65000,
+      "id_barang": "S001",
+      "nama_barang": "Beras Premium 5 kg",
+      "kategori": "Beras",
+      "harga": 75000,
+      "stok": 60,
+      "satuan": "karung"
+    },
+    {
+      "id_barang": "S002",
+      "nama_barang": "Gula Pasir 1 kg",
+      "kategori": "Gula",
+      "harga": 15000,
       "stok": 120,
-      "satuan": "sak"
-    },
-    {
-      "id_barang": "B002",
-      "nama_barang": "Pasir Halus",
-      "kategori": "Material",
-      "harga": 300000,
-      "stok": 25,
-      "satuan": "kubik"
-    },
-    {
-      "id_barang": "B003",
-      "nama_barang": "Batu Bata Merah",
-      "kategori": "Material",
-      "harga": 750,
-      "stok": 5000,
-      "satuan": "buah"
-    },
-    {
-      "id_barang": "B004",
-      "nama_barang": "Cat Tembok Putih 5kg",
-      "kategori": "Cat",
-      "harga": 135000,
-      "stok": 40,
-      "satuan": "kaleng"
-    },
-    {
-      "id_barang": "B005",
-      "nama_barang": "Paku 5 cm",
-      "kategori": "Perkakas",
-      "harga": 18000,
-      "stok": 100,
       "satuan": "kg"
     },
     {
-      "id_barang": "B006",
-      "nama_barang": "Palu Besi",
-      "kategori": "Perkakas",
-      "harga": 45000,
-      "stok": 30,
-      "satuan": "buah"
+      "id_barang": "S003",
+      "nama_barang": "Minyak Goreng 1 Liter",
+      "kategori": "Minyak",
+      "harga": 17000,
+      "stok": 100,
+      "satuan": "botol"
     },
     {
-      "id_barang": "B007",
-      "nama_barang": "Keramik Lantai 40x40",
-      "kategori": "Keramik",
-      "harga": 60000,
-      "stok": 200,
-      "satuan": "dus"
+      "id_barang": "S004",
+      "nama_barang": "Tepung Terigu 1 kg",
+      "kategori": "Tepung",
+      "harga": 12000,
+      "stok": 90,
+      "satuan": "kg"
     },
     {
-      "id_barang": "B008",
-      "nama_barang": "Besi Beton 10 mm",
-      "kategori": "Material",
-      "harga": 85000,
+      "id_barang": "S005",
+      "nama_barang": "Telur Ayam",
+      "kategori": "Telur",
+      "harga": 28000,
+      "stok": 50,
+      "satuan": "kg"
+    },
+    {
+      "id_barang": "S006",
+      "nama_barang": "Susu Kental Manis",
+      "kategori": "Susu",
+      "harga": 12000,
+      "stok": 80,
+      "satuan": "kaleng"
+    },
+    {
+      "id_barang": "S007",
+      "nama_barang": "Mie Instan",
+      "kategori": "Makanan",
+      "harga": 3500,
+      "stok": 300,
+      "satuan": "pcs"
+    },
+    {
+      "id_barang": "S008",
+      "nama_barang": "Garam Dapur 500 gr",
+      "kategori": "Bumbu",
+      "harga": 5000,
       "stok": 150,
-      "satuan": "batang"
+      "satuan": "bungkus"
     }
   ]
 }
